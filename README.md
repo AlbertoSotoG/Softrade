@@ -1,7 +1,7 @@
 # Softrade
 Proyecto Ingenieria de Software (Ago-Dic2018)<br>
 
-##Colaboradores/Desarrolladores:<br>
+## Colaboradores/Desarrolladores:<br>
 
 Gibran Martínez Torres-Responsable del Equipo<br>
 Efraín Falcon-Responsable de Colaboración<br>
